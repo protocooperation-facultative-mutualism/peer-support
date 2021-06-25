@@ -21,3 +21,7 @@ UCC and other "rules" Reader? https://dos.ny.gov/system/files/documents/2021/01/
 Openpayments https://openpaymentsdata.cms.gov/dataset/Open-Payments-for-Developers/ap6w-xznw
 https://www.federalregister.gov/reader-aids/developer-resources 
 https://github.com/usnationalarchives/federal_register
+https://github.com/usnationalarchives/open-data-registry
+https://github.com/usnationalarchives/nara-ruby
+https://github.com/usnationalarchives/opengovplan
+https://github.com/usnationalarchives/File-Analyzer
