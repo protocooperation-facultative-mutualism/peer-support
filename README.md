@@ -1,13 +1,12 @@
 # peer-support
 This project was inspired by an RFP issued by NY State OMH to delveop a
-Independent Practice Association (IPA)
-See the Wiki for the RFP
+Independent Practice Association (IPA) for Peer Support Workers.
+See the Wiki for the RFP.
 
 I believe the associated RPF is fundamentally a software and data sharing issue. I'd like to get some people to help me fix it.
 
 Some ideas:
-This project can also be used to enhance the 
-PSYCKES is a HIPAA-compliant web-based application designed to support clinical decision making, care coordination, and quality improvement in New York State.
+This project can also be used to enhance the PSYCKES which is a HIPAA-compliant web-based application designed to support clinical decision making, care coordination, and quality improvement in New York State. (and should be made opensource to benefit the entire world and build trust and security).
 
 2crow A 2 party escrow system for bitcoin.
 How it could help:
@@ -18,7 +17,7 @@ How it could help:
 This is system for a multi-party signature to authorize something. If the parties include the client, the PCP, the specialist, the Local Government Unit (LGU), the State, the Federal Government, and maybe a Mental Health Court Judge; then protocals to release information, money, programs, or services could be securely shared with authorization among them. 
 
 Coin-Vote Block-chain verified vote tally service
-How it could help
+How it could help:
 A block chain voting record to log decisions, and actions.
 
 Evriskon prototype A global listing of businesses accepting public coin.
