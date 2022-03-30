@@ -1,5 +1,5 @@
 # peer-support
-This project was inspired by an RFP issues by NY State OMH to delveop a
+This project was inspired by an RFP issued by NY State OMH to delveop a
 Independent Practice Association (IPA)
 See the Wiki for the RFP
 
